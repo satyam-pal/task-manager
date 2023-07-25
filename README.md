@@ -1,7 +1,7 @@
 # TASK MANAGER
 
 ## Problem Statement
-Design and develop an in memory (*NO DATABASE*) web application for managing personal tasks and notes within a given task.
+Design and develop an web application for managing personal tasks and notes within a given task.
 
 ---
 
