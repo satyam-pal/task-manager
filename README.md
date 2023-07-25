@@ -48,9 +48,7 @@ Available filters -
 Get the details of a particular task including notes
 
 ### `PATCH /tasks/{task_id}`
-Edit a task - Add / Remove notes from the task. Mark a task completed.
-
-### `PATCH /tasks/{task_id}`
+Edit a task.
 
 ### `DELETE /tasks/{task_id}`
 Delete a particular task
