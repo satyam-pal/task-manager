@@ -3,6 +3,7 @@ spring:
     driver-class-name: org.h2.Driver
     url: jdbc:h2:file:./task_manager;
   jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
     hibernate:
       ddl-auto: update # in prod, use update, NOT create
     show-sql: true
